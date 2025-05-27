@@ -61,6 +61,4 @@ The objective of this project is to develop a regression model that can predict 
 ## 🙋‍♂️ Author
 
 **Vishal Singh**  
-B.Tech CSE (AI), KIET Group of Institutions  
-Email: [Add your email here]  
-Portfolio: [https://vishal.rf.gd](https://vishal.rf.gd)
+B.Tech CSE (AI), KIET Group of Institutions
